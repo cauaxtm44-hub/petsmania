@@ -1,4 +1,4 @@
-# petsmania
+# pet-s-mania
 A empresa Pet´s Mania com cpnj:15 111.111/0001-15 
 Localizada na rua Limão Acedoi n15 Bairro: Vila Esperança 
 Turmalina-Minas Gerais,Brasil
